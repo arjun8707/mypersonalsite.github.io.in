@@ -1,0 +1,122 @@
+body{
+background-color: bisque;
+margin: 0px;
+text-align:center;
+
+
+}
+.a{
+text-decoration: underline;
+}
+.mountain{
+    width:55%;
+}
+.cloud-top {
+    width: 200px;
+    position: relative;
+    left: 400px;
+    padding-top: 300px;
+}
+.cloud-bottom {
+    width: 200px;
+    position: relative;
+    right: 440px;
+    bottom: 100px;
+}
+h1{
+    color:#66BFBF;
+    font-size :5.625em;
+    font-family: 'Sacramento', cursive;
+
+}
+p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rosybrown;
+    line-height: 2;
+
+}
+.profile-pic{
+width: 300px;
+
+
+
+}
+.Negotiation{
+    width:300px;
+}
+.Engagement{
+    width:300px;
+
+}
+.programmer{
+    font-weight: normal;
+    text-decoration:underline;
+}
+.contact-me{
+    color:#66BFBF;
+}
+.skills{
+    color:#66BFBF;
+
+}
+.skill-row{
+    margin:100px auto 100px auto;
+    text-align: left;
+    width:50%;
+    
+    
+}
+.Engagement{
+    width:25%;
+    float:left;
+    margin-right:30px;
+}
+.Negotiation{
+    width:25%;
+    float:right;   
+}
+.btn{
+    background-color: aqua;
+    padding : 20px;
+}
+/*
+.Negotiation-skill-discription{
+    clear:right;
+}
+.Engagement-skill-discription{
+    clear:left;
+}
+*/
+.middle-container{
+    margin:100px 0;
+}
+.intro{
+    width:30%;
+    margin:auto;
+}
+hr{
+    width:20%;
+    border:dotted #66BFBF 6px;
+    border-bottom:none;
+}
+.contact-massage{
+    width:40%;
+    margin:40px auto 60px;
+}
+.bottom-container{
+    margin: 40px auto ;
+    background-color:aqua;
+padding:20px 0 20px;
+}
+a{
+    margin:10px 20px;
+}
+a:hover{
+    color:yellow;
+}
+.copy-right{
+    color:white;
+    font-size: 0.75em;
+    padding:20px 0px;
+
+}
